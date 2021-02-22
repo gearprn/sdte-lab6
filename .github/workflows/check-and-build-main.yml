@@ -31,5 +31,5 @@ jobs:
         with:
           context: .
           file: ./Dockerfile
-          tags: DOCKER_IMAGE_REPO
+          tags: gearprn/demo-lab-6:latest
           push: true
